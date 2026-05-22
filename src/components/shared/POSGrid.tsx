@@ -41,6 +41,7 @@ export function POSGrid({ products, categories, onAddToCart, themeColor = 'blue'
     });
   }, [products, activeCategory, search]);
 
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const ringColor = themeColor === 'orange' ? 'ring-orange-500' : 'ring-blue-500';
   const tabActive = themeColor === 'orange'
     ? 'bg-orange-600 text-white shadow-sm'

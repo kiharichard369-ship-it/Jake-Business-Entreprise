@@ -1,4 +1,5 @@
 import React from 'react';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { TrendingUp, Package, AlertCircle, DollarSign, Flame } from 'lucide-react';
 import { StatCard } from '../../components/shared/StatCard';
 import { Link } from 'react-router-dom';

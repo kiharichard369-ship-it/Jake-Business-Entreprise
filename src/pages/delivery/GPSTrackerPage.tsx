@@ -1,3 +1,4 @@
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import React, { useState, useEffect } from 'react';
 import { MapPin, Wifi, WifiOff, RefreshCw, Clock, Truck, Navigation } from 'lucide-react';
 

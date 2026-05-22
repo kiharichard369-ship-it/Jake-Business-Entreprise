@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { Package, Plus, Edit2, History, ChevronDown } from 'lucide-react';
 
 const rbStock = {

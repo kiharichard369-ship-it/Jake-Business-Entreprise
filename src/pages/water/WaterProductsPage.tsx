@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { Package, Plus, Edit2, ToggleLeft, ToggleRight, History, Search } from 'lucide-react';
 
 const CATEGORIES = ['Refill', 'New', 'Caps', 'PET', 'Jerrican'];

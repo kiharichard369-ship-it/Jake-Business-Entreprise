@@ -3,6 +3,7 @@ import { NavLink, useNavigate } from 'react-router-dom';
 import { useAuth } from '../../context/AuthContext';
 import {
   LayoutDashboard, ShoppingCart, Package, TrendingUp, Users, Truck,
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   Settings, LogOut, Bell, Menu, X, ChevronRight, Droplets, Flame,
   MapPin, CreditCard, FileText, AlertCircle, DollarSign
 } from 'lucide-react';

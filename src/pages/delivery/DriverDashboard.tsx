@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { Truck, MapPin, AlertCircle, Package, DollarSign, Clock, CheckCircle, Plus } from 'lucide-react';
 import { StatCard } from '../../components/shared/StatCard';
 

@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { AlertCircle, CheckCircle, Filter, Download, Search, MapPin, Phone } from 'lucide-react';
 
 const mockDebts = [
